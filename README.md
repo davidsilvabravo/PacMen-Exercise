@@ -21,4 +21,4 @@ They were added new functionalities to make PacMen to open and close their mouth
 No new additional improvements planned yet.
 
 ## License information
-TO BE COMPLETED
+This project is under MIT License, as described on License.md file, that can also be found on this repository - https://github.com/davidsilvabravo/PacMen-Exercise/blob/main/LICENSE
