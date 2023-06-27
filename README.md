@@ -22,8 +22,8 @@ $ yarn
 
 ### Run the project:
 $ yarn start
-The server will initialize in the <http://localhost:3000>
 
+### The server will initialize in the <http://localhost:3000>
 ### Once the page loads, you'll have just 2 options:
 - click on "Add PacMan" to create a new PacMan on screen
 - click on "Start Game" to make all PacMan created to start running
