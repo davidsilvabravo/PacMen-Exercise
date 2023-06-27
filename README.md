@@ -4,7 +4,7 @@ Generate as many pacman as wanted and make them move on browser's window, just b
 
 ## How to run
 
-# You need to clone the repo, so all these files will be downloaded on a single folder "PacMen-Exercise":
+### You need to clone the repo, so all these files will be downloaded on a single folder "PacMen-Exercise":
 $ git clone https://github.com/davidsilvabravo/PacMen-Exercise
 
 - images/pacman1
