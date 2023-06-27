@@ -14,24 +14,24 @@ $ git clone https://github.com/davidsilvabravo/PacMen-Exercise
 - index.html
 - pacmen.js
 
-# Then, go to the PacMen-Exercise folder:
+### Then, go to the PacMen-Exercise folder:
 $ cd PacMen-Exercise
 
-# Install dependencies:
+### Install dependencies:
 $ yarn
 
-# Run the project:
+### Run the project:
 $ yarn start
 The server will initialize in the <http://localhost:3000>
 
-# Once the page loads, you'll have just 2 options:
+### Once the page loads, you'll have just 2 options:
 - click on "Add PacMan" to create a new PacMan on screen
 - click on "Start Game" to make all PacMan created to start running
 
-## Roadmap of future improvements
+#### Roadmap of future improvements
 They were added new functionalities to make PacMen to open and close their mouth while moving, and also, to change direction when reaching left and right borders of screen.
 No new additional improvements planned yet.
 
-## License information
+#### License information
 This project is under MIT License, as described on License.md file, that can also be found on this repository
 https://github.com/davidsilvabravo/PacMen-Exercise/blob/main/LICENSE
